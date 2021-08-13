@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 # Popcat Click Bot 🤖
 
 ![Hero](hero.png)
