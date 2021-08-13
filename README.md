@@ -1,11 +1,11 @@
-# Popcat Click Bot
+# Popcat Click Bot 🤖
 
 ![Hero](hero.png)
 
 
 <img alt="pr welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <img alt="pr welcome" src="https://img.shields.io/badge/🏚-%23StayHome-red" />
 
-## Such auto, Much meow
+## Such auto, Much meow 😹
 
 This program is a toy project to demonstrate the idea of how a node js program to control a headless chrome browser, and control such browser programmatically.
 
