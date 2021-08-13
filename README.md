@@ -9,7 +9,7 @@
 
 ## Such auto, Much meow 😹
 
-This program is a toy project to demonstrate the idea of using node js to control a headless chrome browser, and control such browser programmatically.
+This program is a toy project to demonstrate the idea of using node js with a headless chrome browser, and control the browser programmatically.
 
 Currently it is setted to click 9999 times and take screenshot on 1st, every 801 times and 9999 times.
 
